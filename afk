@@ -1,3 +1,1 @@
-for i,v in pairs(getconnections(game:GetService("Players").LocalPlayer.Idled)) do
-v:Disable()
-end
+https://raw.githubusercontent.com/luca5432/Roblox-ANTI-AFK-SCRIPT/refs/heads/main/Script
